@@ -1,0 +1,71 @@
+h5
+{
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.contact{
+background-color: white;
+}
+
+label{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.det
+{
+    font-weight: 400;
+}
+
+.fas
+{
+    color: blue;
+}
+
+
+h6{
+    color:rgb(66, 66, 214);
+    font-weight: bold;
+}
+
+.help1{
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+}
+
+h6 :hover{
+    text-decoration: underline;
+    color: red;
+}
+
+.qu
+{
+    font-size: 20px;
+    color: brown;
+    font-weight: bold;
+
+}
+
+.sleek
+{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.msg
+{
+    font-weight: bold;
+    padding: 10px;
+    background-color: blue;
+}
+
+.we
+{
+    font-weight:450
+}

@@ -1,0 +1,12 @@
+img{
+
+    height:500px;
+}
+
+.mycor{
+    padding: 10px;
+    /* background-color: bisque; */
+    background-image: url(https://i.pinimg.com/originals/6c/04/c6/6c04c6b013470efcb9474cf8e8f0456e.jpg);
+    display: flex;
+    justify-content: center;
+}

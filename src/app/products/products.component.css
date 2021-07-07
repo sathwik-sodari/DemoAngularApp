@@ -1,0 +1,23 @@
+li{
+    background-color:#FFFFBA;
+    display: flex;
+    border-radius: 4px;
+    
+    
+}
+
+ul{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+a{
+    color:black;
+    font-weight: bold;
+}
+
+a :focus{
+    background-color: burlywood;
+    
+}

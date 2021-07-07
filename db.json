@@ -1,0 +1,116 @@
+{
+  "bikes": [
+    {
+      "productHeading": "Bike-1",
+      "productdescription": "Royal Enfield Classic 350",
+      "productImg": "https://imgd.aeplcdn.com/310x174/bw/models/royal-enfield-classic-350-single-channel-abs--bs-vi20200303121804.jpg?q=75"
+    },
+    {
+      "productHeading": "Bike-2",
+      "productdescription": "Yamaha YZF R15 V3",
+      "productImg": "https://imgd.aeplcdn.com/393x221/bw/models/yamaha-yzf-r15-v3-dual-channel-abs--bs-vi20200109152444.jpg?q=85"
+    },
+    {
+      "productHeading": "Bike-3",
+      "productdescription": "Yamaha MT 15",
+      "productImg": "https://imgd.aeplcdn.com/393x221/bw/models/yamaha-mt-15-bs-vi20200204191522.jpg?q=85"
+    },
+    {
+      "productHeading": "Bike-4",
+      "productdescription": "Bajaj Pulsar NS125",
+      "productImg": "https://imgd.aeplcdn.com/393x221/bw/models/bajaj-pulsar-ns125-standard20210420132451.jpg?q=85"
+    },
+    {
+      "productHeading": "Bike-5",
+      "productdescription": "Yamaha FZ S FI",
+      "productImg": "https://imgd.aeplcdn.com/393x221/bw/models/yamaha-fz-s-v3-single-channel-abs--bs-vi20191111114812.jpg?q=85"
+    },
+    {
+      "productHeading": "Bike-6",
+      "productdescription": "Royal Enfield Bullet 350",
+      "productImg": "https://imgd.aeplcdn.com/393x221/bw/models/royal-enfield-bullet-350-ks--x--efi-bs-vi20200401130113.jpg?q=85"
+    }
+  ],
+  "mobiles": [
+    {
+      "id": 1,
+      "productHeading": "Technology-1",
+      "productdescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+      "productImg": "https://youmatter.world/app/uploads/sites/2/2019/11/tech-planet.jpg"
+    },
+    {
+      "id": 2,
+      "productHeading": "Technology-2",
+      "productdescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+      "productImg": "https://apicms.thestar.com.my/uploads/images/2020/08/24/831125.jpg"
+    },
+    {
+      "id": 3,
+      "productHeading": "Technology-3",
+      "productdescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+      "productImg": "https://itconsultingindubai.files.wordpress.com/2016/03/choosing-a-technology-solution.jpg"
+    },
+    {
+      "id": 4,
+      "productHeading": "Technology-4",
+      "productdescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+      "productImg": "https://itconsultingindubai.files.wordpress.com/2016/03/choosing-a-technology-solution.jpg"
+    },
+    {
+      "id": 5,
+      "productHeading": "Technology-5",
+      "productdescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+      "productImg": "https://wallpaperaccess.com/full/4755970.jpg"
+    },
+    {
+      "id": 6,
+      "productHeading": "Technology-6",
+      "productdescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+      "productImg": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX5577975.jpg"
+    },
+    {
+      "productHeading": "asa",
+      "productImg": "dsasda",
+      "productdescription": "sdasd",
+      "id": 7
+    },
+    {
+      "productHeading": "mobi",
+      "productImg": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80",
+      "productdescription": "my mobi",
+      "id": 8
+    }
+  ],
+  "laptops": [
+    {
+      "productHeading": "Laptop-1",
+      "productdescription": "HP 15 (2021) Thin & Light 11th Gen Core i3 Laptop, 8 GB RAM, 1TB HDD, 15.6-inch (39.62 cms) FHD Screen, Windows 10, MS Office",
+      "productImg": "https://m.media-amazon.com/images/I/81Ne5qKmE8L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "productHeading": "Laptop-2",
+      "productdescription": "Lenovo Ideapad S145 Intel Core i5 10th Gen 15.6 inch (39.62 cms) FHD Thin and Light Laptop (8GB/1TB/Windows",
+      "productImg": "https://m.media-amazon.com/images/I/81EoCoV-8tL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "productHeading": "Laptop-3",
+      "productdescription": "Acer Nitro 5 Intel Core i5-10th Gen 15.6-inch (39.62 cms) Display T&L Gaming Laptop (8GB Ram/1TB HDD + 256GB SSD/Win10/GTX 1650Ti",
+      "productImg": "https://m.media-amazon.com/images/I/81mxlt2J81L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "productHeading": "Laptop-4",
+      "productdescription": "Mi Notebook Horizon Edition 14 Intel Core i5-10210U 10th Gen 14-inch (35.56 cms) Thin and Light Laptop(8GB/512GB SSD/Windows",
+      "productImg": "https://m.media-amazon.com/images/I/712rw0zcH8L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "productHeading": "Laptop-5",
+      "productdescription": "New Apple MacBook Pro with Apple M1 Chip (13-inch, 8GB RAM, 256GB SSD) - Space Grey (Latest Model)",
+      "productImg": "https://m.media-amazon.com/images/I/71an9eiBxpL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "productHeading": "Laptop-6",
+      "productdescription": "Lenovo Legion 5 AMD Ryzen 5 4600H 15.6 inch (39.62 cms) Full HD Gaming Laptop (8GB/1TB HDD + 256GB SSD/Windows 10/120 Hz/NVIDIA",
+      "productImg": "https://m.media-amazon.com/images/I/61ItfhQmaFL._AC_UL480_FMwebp_QL65_.jpg"
+    }
+  ]
+}

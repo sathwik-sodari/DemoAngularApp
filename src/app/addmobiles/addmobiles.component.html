@@ -1,0 +1,24 @@
+<p>addmobiles works!</p>
+
+
+<form #myref="ngForm" (ngSubmit) = "onSubmit(myref.value)">
+    <div class="mb-3">
+      <label for="productHeading" class="form-label">product Heading</label>
+      <input type="text" class="form-control" name="productHeading" id="productHeading" aria-describedby="emailHelp" ngModel>
+      
+    </div>
+
+    <div class="mb-3">
+      <label for="productdescription" class="form-label">product description</label>
+      <input type="text" class="form-control" name="productdescription" id="productdescription" aria-describedby="emailHelp" ngModel>
+      
+    </div>
+
+    <div class="mb-3">
+        <label for="productImg" class="form-label">product Img</label>
+        <input type="text" class="form-control" name="productImg" id="productImg" aria-describedby="emailHelp" ngModel>
+        
+      </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
