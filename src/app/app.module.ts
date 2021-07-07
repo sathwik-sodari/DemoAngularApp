@@ -19,6 +19,7 @@ import {HttpClientModule} from '@angular/common/http';
 import { ViewmobilesComponent } from './viewmobiles/viewmobiles.component';
 import { AddmobilesComponent } from './addmobiles/addmobiles.component';
 import { FormsModule } from '@angular/forms';
+import { DemoComponent } from './demo/demo.component';
 
 @NgModule({
   declarations: [
@@ -36,7 +37,8 @@ import { FormsModule } from '@angular/forms';
     LaptopsComponent,
     TestComponent,
     ViewmobilesComponent,
-    AddmobilesComponent
+    AddmobilesComponent,
+    DemoComponent
   ],
   imports: [
     BrowserModule,
